@@ -1,5 +1,5 @@
 # github-final-project
-This is a final project frim coursera
+This is a final project from coursera
 
     A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
     Input:
